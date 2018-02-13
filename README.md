@@ -2,7 +2,7 @@
 
 Simple Ruby game made following week 2 of the 9-week Codaisseur Academy.
 
-Assignment: write a codebreaker algorithm in ruby, following TDD. The game is Mastermind with numbers instead of colours. Setup, including test suite, was provided.
+Assignment: write a codebreaker algorithm in Ruby (v2.4.1), following TDD. The game is Mastermind with numbers instead of colours. Setup, including test suite, was provided.
 
 ## Steps
 
