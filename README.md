@@ -8,20 +8,20 @@ Assignment: write a codebreaker algorithm in Ruby, following TDD. The game is Ma
 
 Based on the provided test suite, I fulfilled the requirements of each context in order:
 
-1. [A] basic set up
-2. [B] with no matches
-3. [C] with 1 match
-4. [D] with 2 matches
-5. [E] with 3 matches
-6. [F] with 4 matches
-7. [G] with ambiguous matches
+- [A] basic set up  
+- [B] with no matches  
+- [C] with 1 match  
+- [D] with 2 matches  
+- [E] with 3 matches  
+- [F] with 4 matches  
+- [G] with ambiguous matches  
 
 ## Running Locally
 
 Make sure you have [Ruby](https://www.ruby-lang.org/en/) installed.
 
 ```bash
-git clone git@github.com:Abohte/tdd-homework.git
-cd tdd-homework
+git clone git@github.com:Abohte/codebreaker-game.git
+cd codebreaker-game
 bin/codebreaker
 ```
